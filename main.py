@@ -8,5 +8,5 @@ api = Api(app)
 # Route
 api.add_resource(RotatePage, '/rotate_page')
 
-if __name__ == '__main_':
+if __name__ == '__main__':
     app.run(port=5000)
