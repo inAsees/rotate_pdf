@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_restful import Api
-from page_rotation.rotate import RotatePage
+from rotate import RotatePage
 
 app = Flask(__name__)
 api = Api(app)
