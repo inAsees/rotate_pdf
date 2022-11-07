@@ -8,4 +8,4 @@ Program which would be used to rotate the provide page number of the pdf file by
 * [Restful API](https://restfulapi.net/)
 
 
-# 
+# Note: It is assumed that the angle of rotation is in clockwise direction while performing the rotation.
